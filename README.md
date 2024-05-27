@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto tem como objetivo analisar a produtividade semanal em termos de horas trabalhadas, bugs corrigidos e tarefas concluídas. A primeira versão deste projeto contém um DataFrame básico criado com o pandas, que armazena os dados de produtividade de uma semana.
+Este projeto tem como objetivo analisar a produtividade semanal em termos de horas trabalhadas, bugs corrigidos e tarefas concluídas. A análise inclui o cálculo do total de horas trabalhadas, a média de horas trabalhadas por dia e a produtividade diária (tarefas concluídas por hora trabalhada).
 
 ## Estrutura do Projeto
 
@@ -14,3 +14,12 @@ Antes de executar o código, certifique-se de ter o Python instalado e o pacote 
 
 ```bash
 pip install pandas
+```
+
+## Próximos Passos
+- Adicionar análises estatísticas dos dados. <br>
+- Visualizações gráficas para melhor compreensão dos dados. <br>
+- Ferramentas para prever a produtividade futura.
+
+## Licença
+<strong>Este projeto está licenciado sob os termos da licença MIT.</strong>
